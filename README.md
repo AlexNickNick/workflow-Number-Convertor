@@ -16,4 +16,4 @@
 ##### Key : `dec`
 ![Decimal](preview/dec.jpg)
 ##### Key : `hex`
-![Hex](preview/bin.jpg)
+![Hex](preview/hex.jpg)
